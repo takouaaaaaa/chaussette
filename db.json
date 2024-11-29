@@ -1,5 +1,5 @@
 { "variants": [
-          {" id": 2001, "color": "green", "image": require('@/assets/socks_green.jpg'), "quantity": 2 },
-          { "id": 2002, "color": "blue", "image": require('@/assets/socks_blue.jpg'), "quantity": 0 },
+          {" id": 2001, "color": "green", "image":" require('@/assets/socks_green.jpg')", "quantity": 2 },
+          { "id": 2002, "color": "blue", "image": "require('@/assets/socks_blue.jpg')", "quantity": 0 },
         ],
 }
